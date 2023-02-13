@@ -5,7 +5,7 @@
 Clone this repository:
 
 ```bash
-git clone https://github.com/Make-School-Labs/Flask-Testing-Starter.git flask-testing
+git clone https://github.com/Make-School-Labs/Flask-Testing-Starter.git 
 ```
 
 Navigate to the project folder:
